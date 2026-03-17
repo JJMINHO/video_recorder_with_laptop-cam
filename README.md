@@ -1,13 +1,11 @@
 # video_recorder_with_laptop-cam
 This is a vedio record tool using your laptop camera. 
 
-# My Video Recorder 🎥
+# Video Recorder With Laptop_CAM🎥
 
 OpenCV를 활용하여 제작한 파이썬 기반의 간단한 비디오 레코더 프로그램입니다.
 
-## 📌 프로그램 개요
-이 프로그램은 컴퓨터의 웹캠 또는 외부 IP 카메라(CCTV)의 스트리밍 주소를 입력받아 실시간으로 화면에 출력하고, 
-사용자의 조작에 따라 원하는 구간을 `.mp4` 동영상 파일로 녹화하여 저장하는 기능을 제공합니다.
+이 프로그램은 컴퓨터의 웹캠을 통해 입력받아 실시간으로 화면에 출력하고, 사용자의 조작에 따라 원하는 구간을 `.mp4` 동영상 파일로 녹화하여 저장하는 기능을 제공합니다.
 
 ## ✨ 주요 기능
 
