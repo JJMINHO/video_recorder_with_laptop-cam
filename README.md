@@ -1,5 +1,3 @@
-# video_recorder_with_laptop-cam
-This is a vedio record tool using your laptop camera. 
 
 # Video Recorder With Laptop_CAM🎥
 
@@ -40,4 +38,4 @@ Python 환경에 OpenCV 라이브러리가 설치되어 있어야 합니다.
    ```bash
    pip install opencv-python numpy
 
-이후, 소스코드를 이용하여 실행시켜 주세요!
+## 이후, 소스코드를 이용하여 실행시켜 주세요!
